@@ -1,3 +1,6 @@
+![hotelbooking](https://github.com/user-attachments/assets/f868f117-a8e6-4cb5-99a2-c047a97ef1aa)
+
+
 # EDA-ON-HOTEL-BOOKING-ANALYSIS
 
 This EDA project on Hotel Booking Analysis investigates cancellations, and their underlying patterns; and suggests measures that can be implemented to reduce cancellations and secure revenue1:
